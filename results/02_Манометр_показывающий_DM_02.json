@@ -1,0 +1,79 @@
+{
+  "status": "ready",
+  "product": "Манометр показывающий DM 02",
+  "seo_title": "Manometer DM 02 by Манотомь, range 0–1,6 МПа",
+  "seo_title_length": 44,
+  "seo_description": "The Манометр показывающий DM 02 from Манотомь is a precision manometer designed for measuring excess pressure in various industrial applications. Its compact body with a 100 mm diameter houses a calibrated sensing element that provides reliable readings across a wide pressure range. The instrument covers a measurement range of 0 to 1.6 MPa, with an accuracy class of 1.5, ensuring consistent performance for processes requiring moderate precision. It features a G1/2 thread connection, allowing easy integration into existing pneumatic or hydraulic systems. This design facilitates quick installation and straightforward maintenance. Ideal for maintenance engineers, process technicians, and quality control teams in manufacturing plants, workshops, and service stations, the DM 02 helps monitor system pressure, detect overpressure conditions, and support safe operation of equipment. Its robust construction and reliable indication make it a practical choice for routine pressure checks and preventive maintenance tasks.",
+  "seo_description_length": 1024,
+  "key_specs": [
+    {
+      "name": "Производитель",
+      "value": "Манотомь"
+    },
+    {
+      "name": "диапазон измерений",
+      "value": "0–1,6 МПа"
+    },
+    {
+      "name": "класс точности",
+      "value": "1,5"
+    },
+    {
+      "name": "присоединение",
+      "value": "G1/2"
+    },
+    {
+      "name": "диаметр корпуса",
+      "value": "100 мм"
+    },
+    {
+      "name": "Material of case",
+      "value": "данных нет"
+    },
+    {
+      "name": "Operating temperature range",
+      "value": "данных нет"
+    },
+    {
+      "name": "Protection rating (IP)",
+      "value": "данных нет"
+    },
+    {
+      "name": "Calibration interval",
+      "value": "данных нет"
+    },
+    {
+      "name": "Display type",
+      "value": "данных нет"
+    },
+    {
+      "name": "Signal output",
+      "value": "данных нет"
+    }
+  ],
+  "search_queries": [
+    "Манометр показывающий DM 02 Манотомь",
+    "Купить манометр DM 02 Манотомь",
+    "Цена манометра DM 02 с диапазоном 0–1,6 МПа",
+    "Манометр избыточного давления DM 02",
+    "Класс точности 1,5 манометр G1/2"
+  ],
+  "commercial": {
+    "audience": [
+      "Maintenance engineers",
+      "Process technicians",
+      "Quality control teams",
+      "Plant managers"
+    ],
+    "tasks": [
+      "Monitor system pressure levels",
+      "Detect overpressure conditions",
+      "Support safe equipment operation",
+      "Perform routine pressure checks and preventive maintenance"
+    ]
+  },
+  "needs_clarification": [
+    "Рекомендуется уточнить у поставщика: Material of case, Operating temperature range, Protection rating (IP), Calibration interval, Display type, Signal output"
+  ],
+  "quality_warnings": []
+}
